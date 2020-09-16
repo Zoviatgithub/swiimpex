@@ -208,7 +208,7 @@ header h1 a span {
 /*-- //banner-text --*/
 /*-- banner-top --*/
 .main-banner-top{
-    background: url(../images/1.jpg) no-repeat center;
+    background: url(../images/c.jpeg) no-repeat center;
     background-size: cover;	
 	-webkit-background-size: cover;	
 	-moz-background-size: cover;
@@ -217,7 +217,7 @@ header h1 a span {
 	min-height:780px;
 }
 .main-banner-top1{
-	background: url(../images/2.jpg) no-repeat center;
+	background: url(../images/g.jpeg) no-repeat center;
     background-size: cover;	
 	-webkit-background-size: cover;	
 	-moz-background-size: cover;
@@ -226,7 +226,7 @@ header h1 a span {
 	min-height:780px;
 }
 .main-banner-top2{
-	background: url(../images/3.jpg) no-repeat center;
+	background: url(../images/h.png) no-repeat center;
     background-size: cover;	
 	-webkit-background-size: cover;	
 	-moz-background-size: cover;
@@ -235,7 +235,7 @@ header h1 a span {
 	min-height:780px;
 }
 .main-banner-top3{
-	background: url(../images/4.jpg) no-repeat center;
+	background: url(../images/g.jpeg) no-repeat center;
     background-size: cover;	
 	-webkit-background-size: cover;	
 	-moz-background-size: cover;
@@ -926,7 +926,7 @@ footer .social ul li a {
 /*-- inner pages banner --*/
 
 .index-banner-inner {
-    background: url(../images/1.jpg) no-repeat center;
+    background: url(../images/c.jpg) no-repeat center;
     min-height: 250px;
     background-size: cover;
 }
